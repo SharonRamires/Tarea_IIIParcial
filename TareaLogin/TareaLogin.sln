@@ -5,6 +5,10 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor", "Blazor\Blazor.csproj", "{0B9248FF-29E9-43A4-B380-727B777DC18E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{FE600F95-D44B-4E17-B206-E322F4F982DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{894B0829-575D-4C20-BCFA-494D8A63A6E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0B9248FF-29E9-43A4-B380-727B777DC18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B9248FF-29E9-43A4-B380-727B777DC18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B9248FF-29E9-43A4-B380-727B777DC18E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE600F95-D44B-4E17-B206-E322F4F982DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE600F95-D44B-4E17-B206-E322F4F982DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE600F95-D44B-4E17-B206-E322F4F982DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE600F95-D44B-4E17-B206-E322F4F982DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894B0829-575D-4C20-BCFA-494D8A63A6E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894B0829-575D-4C20-BCFA-494D8A63A6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894B0829-575D-4C20-BCFA-494D8A63A6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894B0829-575D-4C20-BCFA-494D8A63A6E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
